@@ -6,7 +6,7 @@ subtitle: Vice President of IT Security at <a href='https://lmwn.com/'>LINE MAN 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yannarak.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CISSP · CCSP · CSSLP</p>
